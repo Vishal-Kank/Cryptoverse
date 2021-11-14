@@ -1,3 +1,6 @@
+Thanx to JavaScript Mastery
+https://www.youtube.com/watch?v=9DDX3US3kss
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
